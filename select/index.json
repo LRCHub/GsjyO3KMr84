@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "MONTAGEM HIKARI",
+  "base_artist": "BellyJay",
+  "createdAt": "2026-02-08T06:34:41.113050Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MONTAGEM HIKARI",
+      "artist": "BellyJay",
+      "has_synced": false,
+      "path": "select/pl_01_MONTAGEM_HIKARI_BellyJay.txt"
+    }
+  ]
+}
